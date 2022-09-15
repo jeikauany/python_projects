@@ -13,7 +13,7 @@ texto_faturamento = f"{faturamento:,.2f}" .replace (",", "_") .replace (".", ","
 print (f"O faturmento foi de R$ {texto_faturamento}")
 
 # NESSA LÓGICA, EU NÃO CONSIGO TROCAR PONTO POR VÍRGULA E VIRGULA POR PONTO
-# .REPLACE FAZ TODAS ESSAS TROCAS QUE PRECISO:
+# .REPLACE FAZ TODAS ESSAS TROCAR QUE PRECISO:
  
 # TROCA-SE TODAS AS VÍRGULAS POR UNDERLINE
 # TROCAR TODOS OS PONTOS POR VÍRGULAS
