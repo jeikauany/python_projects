@@ -5,3 +5,4 @@ lista_precos_reajuste = [preco * 1.1 for preco in lista_precos]
 
 print(lista_precos_reajuste)
 
+# NÃÃÃÃÃO ESQUECER DE TIRAR AS "", PRA NÃO LISTAR COMO STRING
